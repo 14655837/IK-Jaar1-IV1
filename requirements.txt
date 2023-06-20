@@ -1,7 +1,2 @@
-jupyter-book
-ipython3
-matplotlib
-numpy
-pandas
-plotly
-seaborn
+ipywidgets==8.0.6
+statsmodels==0.14.0
